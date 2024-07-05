@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.middle-content {
+  min-height: calc(100vh - 208px);
+}
